@@ -1,2 +1,2 @@
 # MyStudyProject
-To record my project in college.
+To record some of lab in college.
